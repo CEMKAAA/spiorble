@@ -350,6 +350,7 @@ class _AnimationScreenState extends State<AnimationScreen>
 
     // Access the latest flow rate directly from the Queue
     double latestFlowRate = measurements.last.flowRate;
+    double latestVolume = measurements.last.volume;
 
     const double threshold = 0.01;
 
