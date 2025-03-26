@@ -1,16 +1,5 @@
 # spiroble
 
-A new Flutter project.
+Spiroble projesiyle nesnelerin interneti ve sağlık sektörünü bir araya getirmek için geliştirdim normalde hastaneye gittiğinizde bile eğer çok ciddi bir probleminiz yoksa çoğunlukla sadece sizin testlerinizi bir cihazla yapıyorlar onları kaydediyorlar hal böyle olunca çoğu sefer hasatanelere sadece o cihazlara erişim için gidiyoruz peki ya IoT sistemlerin gücüyle o o cihazları evimize getirebilseydik ve aynı şekilde evimizin konforlu ortamından yaptığımız sonuçlar doktorun önüne düşseydi çoğu insan büyük bir vakit kazanırdı ve hezimetten kurtulurdu. Bu projede spirometre ve oksimetrenin PCB devrelerini microcontroller pin giriş çıkışlarını kendim gerçekleştirdim
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=mUWQy1um4Xo)
