@@ -1,5 +1,33 @@
-# spiroble
+# 🌬️ SpiroBLE – IoT Destekli Sağlık Takibi  
 
-Spiroble projesiyle nesnelerin interneti ve sağlık sektörünü bir araya getirmek için geliştirdim normalde hastaneye gittiğinizde bile eğer çok ciddi bir probleminiz yoksa çoğunlukla sadece sizin testlerinizi bir cihazla yapıyorlar onları kaydediyorlar hal böyle olunca çoğu sefer hasatanelere sadece o cihazlara erişim için gidiyoruz peki ya IoT sistemlerin gücüyle o o cihazları evimize getirebilseydik ve aynı şekilde evimizin konforlu ortamından yaptığımız sonuçlar doktorun önüne düşseydi çoğu insan büyük bir vakit kazanırdı ve hezimetten kurtulurdu. Bu projede spirometre ve oksimetrenin PCB devrelerini microcontroller pin giriş çıkışlarını kendim gerçekleştirdim. Projeyi kurmak için vscode de projeyi açtıktan sonra "flutter pub get" ile dependecieleri indirin daha sonra flutter run ile projeyi başlatın
+**SpiroBLE**, **IoT teknolojisi** ile **sağlık sektörünü** bir araya getirerek hastaların **spirometre ve oksimetre testlerini** evlerinde yapmalarını ve sonuçları anında doktorlarına iletmelerini sağlayan bir projedir.  
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=mUWQy1um4Xo)
+Çoğu zaman hastanelere yalnızca **tıbbi cihazlara erişim sağlamak için** gidiyoruz. Peki ya bu cihazları **IoT sistemleri** ile evimize getirebilseydik? **SpiroBLE**, hastaların evlerinde rahatça sağlık ölçümleri yapmasına ve bu verilerin doktorlara anlık olarak iletilmesine olanak tanıyarak, **zamandan tasarruf sağlar ve gereksiz hastane ziyaretlerini azaltır**.  
+
+## 🎥 Proje Tanıtım Videosu  
+
+Aşağıdaki görsele tıklayarak projeyi tanıtan videoyu izleyebilirsiniz:  
+
+[![Videoyu İzle](https://amdtelemedicine.com/wp-content/uploads/2020/05/digitalspirometer-front_amdtelemed_integratedproduct.jpg)](https://www.youtube.com/watch?v=mUWQy1um4Xo)  
+
+---
+
+## ⚙️ Proje Hakkında  
+
+Bu projede **spirometre ve oksimetrenin** hem **PCB devre tasarımını** hem de **mikrodenetleyici pin giriş-çıkışlarını** kendim gerçekleştirdim.  
+Geliştirilen **Flutter mobil uygulaması**, kullanıcıların sağlık durumlarını **gerçek zamanlı olarak takip etmelerini** ve doktorlarıyla veri paylaşmalarını sağlar.  
+
+## 🚀 Kurulum ve Çalıştırma  
+
+Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:  
+
+1. **Depoyu Klonlayın**  
+   git clone https://github.com/kullaniciadi/spiroble.git
+   cd spiroble
+   
+3. **Paketleri Yükleyin**
+   flutter pub get
+
+4. **Uygulamayı Açın**
+   flutter run
+
