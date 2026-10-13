@@ -8,7 +8,7 @@
 
 Aşağıdaki görsele tıklayarak projeyi tanıtan videoyu izleyebilirsiniz:  
 
-[![Videoyu İzle](https://amdtelemedicine.com/wp-content/uploads/2020/05/digitalspirometer-front_amdtelemed_integratedproduct.jpg)](https://www.youtube.com/watch?v=mUWQy1um4Xo)  
+[![Videoyu İzle](https://amdtelemedicine.com/wp-content/uploads/2020/05/digitalspirometer-front_amdtelemed_integratedproduct.jpg)](https://www.youtube.com/watch?v=YXPrAgRQcVA)  
 
 ---
 
